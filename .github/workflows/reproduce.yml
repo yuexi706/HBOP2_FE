@@ -1,0 +1,30 @@
+name: Reproduce statistical results
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      RENV_CONFIG_REPOS_OVERRIDE: https://cloud.r-project.org
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.4.1'
+          use-public-rspm: true
+      - uses: r-lib/actions/setup-renv@v2
+      - name: Statistical unit tests
+        run: Rscript --vanilla -e 'renv::load(); source("tests/run_tests.R")'
+      - name: Full exact calibration and independent Monte Carlo study
+        run: Rscript --vanilla -e 'renv::load(); source("scripts/run_analysis.R")'
+      - name: Release checks
+        run: Rscript --vanilla -e 'renv::load(); source("scripts/verify_release.R")'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: hbop2fe-publication-results
+          path: results/

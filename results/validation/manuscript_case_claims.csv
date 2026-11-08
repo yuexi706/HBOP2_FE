@@ -1,0 +1,6 @@
+"quantity","manuscript","recomputed","rounding_digits","matches_rounding"
+"Type I error",0.099,0.099377207527073,3,TRUE
+"Null expected N",40.2,40.1619715012784,1,TRUE
+"Power",0.966,0.966237389722223,3,TRUE
+"Alternative expected N",42.7,42.671191739555,1,TRUE
+"Early efficacy under alternative",0.662,0.662337930889624,3,TRUE

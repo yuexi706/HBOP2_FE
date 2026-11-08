@@ -1,0 +1,10 @@
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+results/run.log
+results/render.log
+*.zip

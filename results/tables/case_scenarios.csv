@@ -1,0 +1,6 @@
+"scenario","purpose","p_c_target","p_t","estimand"
+"K1","Compatible null",0.27,0.27,"Type I error"
+"K2","Compatible alternative",0.27,0.47,"Power"
+"K3","Mild favorable ECA: null",0.32,0.32,"Type I error"
+"K4","Strong favorable ECA: null",0.37,0.37,"Type I error"
+"K5","Mild unfavorable ECA: alternative",0.22,0.42,"Power"

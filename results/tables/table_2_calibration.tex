@@ -1,0 +1,23 @@
+\begin{table*}[t]
+\centering
+\caption{Separately calibrated designs on the prespecified 13,000-point grid.}
+\label{tab:table_2_calibration}
+\small
+\setlength{\tabcolsep}{4pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrrrrr}
+\toprule
+Setting & Method & Lambda & Gamma & Eta & Type I error & Power & E(N), null & E(N), alternative \\
+\midrule
+Primary & HBOP2-FE & 0.77 & 0.80 & 3.00 & 0.099412 & 0.866070 & 43.17 & 51.07 \\
+Primary & BOP2-FE & 0.87 & 0.50 & 2.60 & 0.095683 & 0.839265 & 36.28 & 42.95 \\
+Case & BOP2-FE & 0.90 & 0.70 & 2.60 & 0.096443 & 0.959813 & 37.61 & 37.53 \\
+Case & HBOP2-FE & 0.73 & 0.50 & 2.80 & 0.099377 & 0.966237 & 40.16 & 42.67 \\
+\bottomrule
+\end{tabular}%
+}
+\par\vspace{3pt}
+\begin{minipage}{\textwidth}\footnotesize
+\textit{Note.} Maximize compatible power subject to exact type I error \ensuremath{\leq} 0.10. Ties: lower null E(N), higher null futility, lower null early efficacy, then increasing lambda, gamma, eta. Mathematically equal criteria are compared to 12 decimal places. The manuscript case design coincides with the selected optimum.
+\end{minipage}
+\end{table*}

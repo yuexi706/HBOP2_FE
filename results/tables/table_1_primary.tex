@@ -1,0 +1,31 @@
+\begin{table*}[t]
+\centering
+\caption{Primary operating characteristics conditional on the fixed ECA (60/200).}
+\label{tab:table_1_primary}
+\small
+\setlength{\tabcolsep}{4pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+Scenario & Method & Target & Treatment & Exact go & MC go & MCSE & E(N) & Early futility & Early efficacy & Final go \\
+\midrule
+S1 & BOP2-FE & 0.30 & 0.30 & 0.096 & 0.095 & 0.00093 & 36.3 & 0.731 & 0.034 & 0.062 \\
+S1 & HBOP2-FE & 0.30 & 0.30 & 0.099 & 0.099 & 0.00095 & 43.2 & 0.596 & 0.007 & 0.092 \\
+S2 & BOP2-FE & 0.30 & 0.45 & 0.839 & 0.840 & 0.00116 & 42.9 & 0.103 & 0.563 & 0.276 \\
+S2 & HBOP2-FE & 0.30 & 0.45 & 0.866 & 0.867 & 0.00108 & 51.1 & 0.049 & 0.321 & 0.545 \\
+S3 & BOP2-FE & 0.35 & 0.35 & 0.309 & 0.306 & 0.00146 & 42.5 & 0.482 & 0.127 & 0.183 \\
+S3 & HBOP2-FE & 0.35 & 0.35 & 0.326 & 0.328 & 0.00148 & 50.0 & 0.336 & 0.038 & 0.288 \\
+S4 & BOP2-FE & 0.40 & 0.40 & 0.605 & 0.603 & 0.00155 & 45.0 & 0.252 & 0.315 & 0.290 \\
+S4 & HBOP2-FE & 0.40 & 0.40 & 0.634 & 0.632 & 0.00153 & 53.0 & 0.146 & 0.134 & 0.500 \\
+S5 & BOP2-FE & 0.25 & 0.40 & 0.605 & 0.606 & 0.00155 & 45.0 & 0.252 & 0.315 & 0.290 \\
+S5 & HBOP2-FE & 0.25 & 0.40 & 0.634 & 0.635 & 0.00152 & 53.0 & 0.146 & 0.134 & 0.500 \\
+S6 & BOP2-FE & 0.20 & 0.35 & 0.309 & 0.311 & 0.00146 & 42.5 & 0.482 & 0.127 & 0.183 \\
+S6 & HBOP2-FE & 0.20 & 0.35 & 0.326 & 0.328 & 0.00148 & 50.0 & 0.336 & 0.038 & 0.288 \\
+\bottomrule
+\end{tabular}%
+}
+\par\vspace{3pt}
+\begin{minipage}{\textwidth}\footnotesize
+\textit{Note.} N = 60; looks = 20, 40, 60; B = 100,000 independent current trials per row. S1, S3 and S4 are target nulls; S2, S5 and S6 are target alternatives. Final go is unconditional, including the probability of reaching the final look. E(N) counts current patients only.
+\end{minipage}
+\end{table*}

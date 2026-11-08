@@ -1,0 +1,322 @@
+"check","difference","tolerance","passed"
+"primary_hb DP vs all paths 0",0,1e-11,TRUE
+"primary_hb DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"primary_hb DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"primary_hb DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"primary_hb DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"primary_hb DP vs all paths 1",0,1e-11,TRUE
+"primary_hb integration absolute error",9.73327123973059e-11,1e-08,TRUE
+"primary_hb forward vs reverse integral 20 0",1.34441069388203e-17,1e-08,TRUE
+"primary_hb forward vs reverse integral 20 6",4.44089209850063e-16,1e-08,TRUE
+"primary_hb forward vs reverse integral 20 20",1.38922207071346e-12,1e-08,TRUE
+"primary_hb forward vs reverse integral 40 0",1.46570581192884e-17,1e-08,TRUE
+"primary_hb forward vs reverse integral 40 12",1.66533453693773e-16,1e-08,TRUE
+"primary_hb forward vs reverse integral 40 40",1.68898228736225e-12,1e-08,TRUE
+"primary_hb forward vs reverse integral 60 0",1.22819777351874e-20,1e-08,TRUE
+"primary_hb forward vs reverse integral 60 18",8.88178419700125e-16,1e-08,TRUE
+"primary_hb forward vs reverse integral 60 60",2.92565971449221e-12,1e-08,TRUE
+"primary_fixed DP vs all paths 0",0,1e-11,TRUE
+"primary_fixed DP vs all paths 0.27",3.48165940522449e-13,1e-11,TRUE
+"primary_fixed DP vs all paths 0.3",3.83693077310454e-13,1e-11,TRUE
+"primary_fixed DP vs all paths 0.45",2.8421709430404e-14,1e-11,TRUE
+"primary_fixed DP vs all paths 0.47",3.12638803734444e-13,1e-11,TRUE
+"primary_fixed DP vs all paths 1",0,1e-11,TRUE
+"primary_fixed integration absolute error",0,1e-08,TRUE
+"sensitivity_01 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_01 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_01 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_01 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_01 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_01 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_01 integration absolute error",9.25638602148206e-11,1e-08,TRUE
+"sensitivity_01 forward vs reverse integral 20 0",3.29597460435593e-17,1e-08,TRUE
+"sensitivity_01 forward vs reverse integral 20 6",5.55111512312578e-17,1e-08,TRUE
+"sensitivity_01 forward vs reverse integral 20 20",1.33049127271079e-12,1e-08,TRUE
+"sensitivity_01 forward vs reverse integral 40 0",4.72278466334686e-16,1e-08,TRUE
+"sensitivity_01 forward vs reverse integral 40 12",1.66533453693773e-16,1e-08,TRUE
+"sensitivity_01 forward vs reverse integral 40 40",1.78235204373323e-12,1e-08,TRUE
+"sensitivity_01 forward vs reverse integral 60 0",2.03071066906535e-15,1e-08,TRUE
+"sensitivity_01 forward vs reverse integral 60 18",3.88578058618805e-16,1e-08,TRUE
+"sensitivity_01 forward vs reverse integral 60 60",2.80442336020315e-12,1e-08,TRUE
+"sensitivity_02 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_02 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_02 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_02 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_02 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_02 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_02 integration absolute error",9.65995296576283e-11,1e-08,TRUE
+"sensitivity_02 forward vs reverse integral 20 0",3.61334226428589e-14,1e-08,TRUE
+"sensitivity_02 forward vs reverse integral 20 6",3.5527136788005e-14,1e-08,TRUE
+"sensitivity_02 forward vs reverse integral 20 20",1.42053036000789e-12,1e-08,TRUE
+"sensitivity_02 forward vs reverse integral 40 0",3.61371089302454e-14,1e-08,TRUE
+"sensitivity_02 forward vs reverse integral 40 12",3.56936702416988e-14,1e-08,TRUE
+"sensitivity_02 forward vs reverse integral 40 40",1.65589764122842e-12,1e-08,TRUE
+"sensitivity_02 forward vs reverse integral 60 0",4.36391374425416e-18,1e-08,TRUE
+"sensitivity_02 forward vs reverse integral 60 18",3.52495810318487e-14,1e-08,TRUE
+"sensitivity_02 forward vs reverse integral 60 60",2.95963253904574e-12,1e-08,TRUE
+"sensitivity_03 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_03 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_03 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_03 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_03 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_03 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_03 integration absolute error",8.02649217696773e-11,1e-08,TRUE
+"sensitivity_03 forward vs reverse integral 20 0",6.59845442174678e-15,1e-08,TRUE
+"sensitivity_03 forward vs reverse integral 20 6",2.77555756156289e-16,1e-08,TRUE
+"sensitivity_03 forward vs reverse integral 20 20",1.3855583347322e-12,1e-08,TRUE
+"sensitivity_03 forward vs reverse integral 40 0",9.5926955615e-15,1e-08,TRUE
+"sensitivity_03 forward vs reverse integral 40 12",5.55111512312578e-17,1e-08,TRUE
+"sensitivity_03 forward vs reverse integral 40 40",1.68953739887456e-12,1e-08,TRUE
+"sensitivity_03 forward vs reverse integral 60 0",1.48156226870144e-15,1e-08,TRUE
+"sensitivity_03 forward vs reverse integral 60 18",6.10622663543836e-16,1e-08,TRUE
+"sensitivity_03 forward vs reverse integral 60 60",2.92388335765281e-12,1e-08,TRUE
+"sensitivity_04 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_04 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_04 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_04 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_04 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_04 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_04 integration absolute error",9.87834416536196e-11,1e-08,TRUE
+"sensitivity_04 forward vs reverse integral 20 0",2.09251019289702e-16,1e-08,TRUE
+"sensitivity_04 forward vs reverse integral 20 6",2.22044604925031e-16,1e-08,TRUE
+"sensitivity_04 forward vs reverse integral 20 20",1.38944411531838e-12,1e-08,TRUE
+"sensitivity_04 forward vs reverse integral 40 0",7.45388993583784e-19,1e-08,TRUE
+"sensitivity_04 forward vs reverse integral 40 12",1.66533453693773e-16,1e-08,TRUE
+"sensitivity_04 forward vs reverse integral 40 40",1.68987046578195e-12,1e-08,TRUE
+"sensitivity_04 forward vs reverse integral 60 0",9.21571846612679e-19,1e-08,TRUE
+"sensitivity_04 forward vs reverse integral 60 18",5.55111512312578e-16,1e-08,TRUE
+"sensitivity_04 forward vs reverse integral 60 60",2.92588175909714e-12,1e-08,TRUE
+"sensitivity_05 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_05 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_05 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_05 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_05 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_05 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_05 integration absolute error",9.88072956786823e-11,1e-08,TRUE
+"sensitivity_05 forward vs reverse integral 20 0",1.89397109107148e-14,1e-08,TRUE
+"sensitivity_05 forward vs reverse integral 20 6",6.10622663543836e-16,1e-08,TRUE
+"sensitivity_05 forward vs reverse integral 20 20",1.3899992268307e-12,1e-08,TRUE
+"sensitivity_05 forward vs reverse integral 40 0",2.74689125612237e-14,1e-08,TRUE
+"sensitivity_05 forward vs reverse integral 40 12",2.22044604925031e-16,1e-08,TRUE
+"sensitivity_05 forward vs reverse integral 40 40",1.69886327228141e-12,1e-08,TRUE
+"sensitivity_05 forward vs reverse integral 60 0",1.16096368629748e-15,1e-08,TRUE
+"sensitivity_05 forward vs reverse integral 60 18",3.33066907387547e-16,1e-08,TRUE
+"sensitivity_05 forward vs reverse integral 60 60",2.91477952885089e-12,1e-08,TRUE
+"sensitivity_06 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_06 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_06 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_06 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_06 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_06 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_06 integration absolute error",8.02649217696773e-11,1e-08,TRUE
+"sensitivity_06 forward vs reverse integral 20 0",6.59845442174678e-15,1e-08,TRUE
+"sensitivity_06 forward vs reverse integral 20 6",2.77555756156289e-16,1e-08,TRUE
+"sensitivity_06 forward vs reverse integral 20 20",1.3855583347322e-12,1e-08,TRUE
+"sensitivity_06 forward vs reverse integral 40 0",9.5926955615e-15,1e-08,TRUE
+"sensitivity_06 forward vs reverse integral 40 12",5.55111512312578e-17,1e-08,TRUE
+"sensitivity_06 forward vs reverse integral 40 40",1.68953739887456e-12,1e-08,TRUE
+"sensitivity_06 forward vs reverse integral 60 0",1.48156226870144e-15,1e-08,TRUE
+"sensitivity_06 forward vs reverse integral 60 18",6.10622663543836e-16,1e-08,TRUE
+"sensitivity_06 forward vs reverse integral 60 60",2.92388335765281e-12,1e-08,TRUE
+"sensitivity_07 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_07 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_07 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_07 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_07 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_07 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_07 integration absolute error",9.03725385068804e-11,1e-08,TRUE
+"sensitivity_07 forward vs reverse integral 20 0",3.87493856446319e-16,1e-08,TRUE
+"sensitivity_07 forward vs reverse integral 20 6",9.99200722162641e-16,1e-08,TRUE
+"sensitivity_07 forward vs reverse integral 20 20",1.39199762827502e-12,1e-08,TRUE
+"sensitivity_07 forward vs reverse integral 40 0",2.50721752387273e-18,1e-08,TRUE
+"sensitivity_07 forward vs reverse integral 40 12",1.16573417585641e-15,1e-08,TRUE
+"sensitivity_07 forward vs reverse integral 40 40",1.68876024275733e-12,1e-08,TRUE
+"sensitivity_07 forward vs reverse integral 60 0",1.11638942448117e-18,1e-08,TRUE
+"sensitivity_07 forward vs reverse integral 60 18",6.10622663543836e-16,1e-08,TRUE
+"sensitivity_07 forward vs reverse integral 60 60",2.92699198212176e-12,1e-08,TRUE
+"sensitivity_08 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_08 DP vs all paths 0.27",2.41584530158434e-13,1e-11,TRUE
+"sensitivity_08 DP vs all paths 0.3",3.90798504668055e-13,1e-11,TRUE
+"sensitivity_08 DP vs all paths 0.45",4.9737991503207e-14,1e-11,TRUE
+"sensitivity_08 DP vs all paths 0.47",3.5527136788005e-13,1e-11,TRUE
+"sensitivity_08 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_08 integration absolute error",9.51929699242064e-11,1e-08,TRUE
+"sensitivity_08 forward vs reverse integral 20 0",9.75781955236954e-19,1e-08,TRUE
+"sensitivity_08 forward vs reverse integral 20 6",4.44089209850063e-16,1e-08,TRUE
+"sensitivity_08 forward vs reverse integral 20 20",1.38888900380607e-12,1e-08,TRUE
+"sensitivity_08 forward vs reverse integral 40 0",1.82789710017478e-18,1e-08,TRUE
+"sensitivity_08 forward vs reverse integral 40 12",3.33066907387547e-16,1e-08,TRUE
+"sensitivity_08 forward vs reverse integral 40 40",1.6885381981524e-12,1e-08,TRUE
+"sensitivity_08 forward vs reverse integral 60 0",1.58818677610181e-21,1e-08,TRUE
+"sensitivity_08 forward vs reverse integral 60 18",3.88578058618805e-16,1e-08,TRUE
+"sensitivity_08 forward vs reverse integral 60 60",2.92632584830699e-12,1e-08,TRUE
+"sensitivity_09 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_09 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_09 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_09 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_09 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_09 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_09 integration absolute error",9.65995296576283e-11,1e-08,TRUE
+"sensitivity_09 forward vs reverse integral 20 0",3.61334226428589e-14,1e-08,TRUE
+"sensitivity_09 forward vs reverse integral 20 6",3.5527136788005e-14,1e-08,TRUE
+"sensitivity_09 forward vs reverse integral 20 20",1.42053036000789e-12,1e-08,TRUE
+"sensitivity_09 forward vs reverse integral 40 0",3.61371089302454e-14,1e-08,TRUE
+"sensitivity_09 forward vs reverse integral 40 12",3.56936702416988e-14,1e-08,TRUE
+"sensitivity_09 forward vs reverse integral 40 40",1.65589764122842e-12,1e-08,TRUE
+"sensitivity_09 forward vs reverse integral 60 0",4.36391374425416e-18,1e-08,TRUE
+"sensitivity_09 forward vs reverse integral 60 18",3.52495810318487e-14,1e-08,TRUE
+"sensitivity_09 forward vs reverse integral 60 60",2.95963253904574e-12,1e-08,TRUE
+"sensitivity_10 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_10 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_10 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_10 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_10 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_10 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_10 integration absolute error",9.6071906459074e-11,1e-08,TRUE
+"sensitivity_10 forward vs reverse integral 20 0",1.05384451165591e-16,1e-08,TRUE
+"sensitivity_10 forward vs reverse integral 20 6",1.0325074129014e-14,1e-08,TRUE
+"sensitivity_10 forward vs reverse integral 20 20",1.38100642033123e-12,1e-08,TRUE
+"sensitivity_10 forward vs reverse integral 40 0",1.02039280887659e-14,1e-08,TRUE
+"sensitivity_10 forward vs reverse integral 40 12",1.01585406753202e-14,1e-08,TRUE
+"sensitivity_10 forward vs reverse integral 40 40",1.69964042839865e-12,1e-08,TRUE
+"sensitivity_10 forward vs reverse integral 60 0",1.0552675270073e-16,1e-08,TRUE
+"sensitivity_10 forward vs reverse integral 60 18",8.32667268468867e-16,1e-08,TRUE
+"sensitivity_10 forward vs reverse integral 60 60",2.91566770727059e-12,1e-08,TRUE
+"sensitivity_11 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_11 DP vs all paths 0.27",1.77635683940025e-13,1e-11,TRUE
+"sensitivity_11 DP vs all paths 0.3",5.89750470680883e-13,1e-11,TRUE
+"sensitivity_11 DP vs all paths 0.45",4.2632564145606e-14,1e-11,TRUE
+"sensitivity_11 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"sensitivity_11 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_11 integration absolute error",9.73327123973059e-11,1e-08,TRUE
+"sensitivity_11 forward vs reverse integral 20 0",1.34441069388203e-17,1e-08,TRUE
+"sensitivity_11 forward vs reverse integral 20 6",4.44089209850063e-16,1e-08,TRUE
+"sensitivity_11 forward vs reverse integral 20 20",1.38922207071346e-12,1e-08,TRUE
+"sensitivity_11 forward vs reverse integral 40 0",1.46570581192884e-17,1e-08,TRUE
+"sensitivity_11 forward vs reverse integral 40 12",1.66533453693773e-16,1e-08,TRUE
+"sensitivity_11 forward vs reverse integral 40 40",1.68898228736225e-12,1e-08,TRUE
+"sensitivity_11 forward vs reverse integral 60 0",1.22819777351874e-20,1e-08,TRUE
+"sensitivity_11 forward vs reverse integral 60 18",8.88178419700125e-16,1e-08,TRUE
+"sensitivity_11 forward vs reverse integral 60 60",2.92565971449221e-12,1e-08,TRUE
+"sensitivity_12 DP vs all paths 0",0,1e-11,TRUE
+"sensitivity_12 DP vs all paths 0.27",2.41584530158434e-13,1e-11,TRUE
+"sensitivity_12 DP vs all paths 0.3",3.90798504668055e-13,1e-11,TRUE
+"sensitivity_12 DP vs all paths 0.45",4.9737991503207e-14,1e-11,TRUE
+"sensitivity_12 DP vs all paths 0.47",3.5527136788005e-13,1e-11,TRUE
+"sensitivity_12 DP vs all paths 1",0,1e-11,TRUE
+"sensitivity_12 integration absolute error",8.95095542142723e-11,1e-08,TRUE
+"sensitivity_12 forward vs reverse integral 20 0",1.0842021724855e-19,1e-08,TRUE
+"sensitivity_12 forward vs reverse integral 20 6",3.33066907387547e-16,1e-08,TRUE
+"sensitivity_12 forward vs reverse integral 20 20",1.38944411531838e-12,1e-08,TRUE
+"sensitivity_12 forward vs reverse integral 40 0",2.95614498591751e-19,1e-08,TRUE
+"sensitivity_12 forward vs reverse integral 40 12",1.11022302462516e-16,1e-08,TRUE
+"sensitivity_12 forward vs reverse integral 40 40",1.68831615354748e-12,1e-08,TRUE
+"sensitivity_12 forward vs reverse integral 60 0",3.16049168444261e-19,1e-08,TRUE
+"sensitivity_12 forward vs reverse integral 60 18",2.77555756156289e-16,1e-08,TRUE
+"sensitivity_12 forward vs reverse integral 60 60",2.92621482600453e-12,1e-08,TRUE
+"case_hb_optimized DP vs all paths 0",0,1e-11,TRUE
+"case_hb_optimized DP vs all paths 0.27",2.41584530158434e-13,1e-11,TRUE
+"case_hb_optimized DP vs all paths 0.3",4.2632564145606e-13,1e-11,TRUE
+"case_hb_optimized DP vs all paths 0.45",1.06581410364015e-13,1e-11,TRUE
+"case_hb_optimized DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"case_hb_optimized DP vs all paths 1",0,1e-11,TRUE
+"case_hb_optimized integration absolute error",9.47306016626979e-11,1e-08,TRUE
+"case_hb_optimized forward vs reverse integral 20 0",2.92734586571086e-16,1e-08,TRUE
+"case_hb_optimized forward vs reverse integral 20 6",4.44089209850063e-16,1e-08,TRUE
+"case_hb_optimized forward vs reverse integral 20 20",1.38866695920115e-12,1e-08,TRUE
+"case_hb_optimized forward vs reverse integral 40 0",1.03270256929244e-17,1e-08,TRUE
+"case_hb_optimized forward vs reverse integral 40 12",3.33066907387547e-16,1e-08,TRUE
+"case_hb_optimized forward vs reverse integral 40 40",1.68876024275733e-12,1e-08,TRUE
+"case_hb_optimized forward vs reverse integral 60 0",6.7169712717266e-19,1e-08,TRUE
+"case_hb_optimized forward vs reverse integral 60 18",8.88178419700125e-16,1e-08,TRUE
+"case_hb_optimized forward vs reverse integral 60 60",2.92610380370206e-12,1e-08,TRUE
+"case_fixed DP vs all paths 0",0,1e-11,TRUE
+"case_fixed DP vs all paths 0.27",1.35003119794419e-13,1e-11,TRUE
+"case_fixed DP vs all paths 0.3",3.97903932025656e-13,1e-11,TRUE
+"case_fixed DP vs all paths 0.45",1.70530256582424e-13,1e-11,TRUE
+"case_fixed DP vs all paths 0.47",2.91322521661641e-13,1e-11,TRUE
+"case_fixed DP vs all paths 1",0,1e-11,TRUE
+"case_fixed integration absolute error",0,1e-08,TRUE
+"case_cap10 DP vs all paths 0",0,1e-11,TRUE
+"case_cap10 DP vs all paths 0.27",2.41584530158434e-13,1e-11,TRUE
+"case_cap10 DP vs all paths 0.3",4.2632564145606e-13,1e-11,TRUE
+"case_cap10 DP vs all paths 0.45",1.06581410364015e-13,1e-11,TRUE
+"case_cap10 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"case_cap10 DP vs all paths 1",0,1e-11,TRUE
+"case_cap10 integration absolute error",9.56276897945418e-11,1e-08,TRUE
+"case_cap10 forward vs reverse integral 20 0",8.92385124129369e-14,1e-08,TRUE
+"case_cap10 forward vs reverse integral 20 6",3.33066907387547e-16,1e-08,TRUE
+"case_cap10 forward vs reverse integral 20 20",1.38888900380607e-12,1e-08,TRUE
+"case_cap10 forward vs reverse integral 40 0",6.88683051558447e-14,1e-08,TRUE
+"case_cap10 forward vs reverse integral 40 12",3.33066907387547e-16,1e-08,TRUE
+"case_cap10 forward vs reverse integral 40 40",1.6823209492145e-12,1e-08,TRUE
+"case_cap10 forward vs reverse integral 60 0",1.86528310158751e-14,1e-08,TRUE
+"case_cap10 forward vs reverse integral 60 18",9.99200722162641e-16,1e-08,TRUE
+"case_cap10 forward vs reverse integral 60 60",2.9224400677208e-12,1e-08,TRUE
+"case_cap50 DP vs all paths 0",0,1e-11,TRUE
+"case_cap50 DP vs all paths 0.27",2.41584530158434e-13,1e-11,TRUE
+"case_cap50 DP vs all paths 0.3",4.2632564145606e-13,1e-11,TRUE
+"case_cap50 DP vs all paths 0.45",1.06581410364015e-13,1e-11,TRUE
+"case_cap50 DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"case_cap50 DP vs all paths 1",0,1e-11,TRUE
+"case_cap50 integration absolute error",9.44272536913687e-11,1e-08,TRUE
+"case_cap50 forward vs reverse integral 20 0",1.95156391047391e-18,1e-08,TRUE
+"case_cap50 forward vs reverse integral 20 6",5.55111512312578e-16,1e-08,TRUE
+"case_cap50 forward vs reverse integral 20 20",1.38988820452823e-12,1e-08,TRUE
+"case_cap50 forward vs reverse integral 40 0",2.10064170919066e-18,1e-08,TRUE
+"case_cap50 forward vs reverse integral 40 12",4.44089209850063e-16,1e-08,TRUE
+"case_cap50 forward vs reverse integral 40 40",1.68964842117703e-12,1e-08,TRUE
+"case_cap50 forward vs reverse integral 60 0",2.64697796016969e-21,1e-08,TRUE
+"case_cap50 forward vs reverse integral 60 18",1.4432899320127e-15,1e-08,TRUE
+"case_cap50 forward vs reverse integral 60 60",2.92588175909714e-12,1e-08,TRUE
+"case_discounted DP vs all paths 0",0,1e-11,TRUE
+"case_discounted DP vs all paths 0.27",2.41584530158434e-13,1e-11,TRUE
+"case_discounted DP vs all paths 0.3",4.2632564145606e-13,1e-11,TRUE
+"case_discounted DP vs all paths 0.45",1.06581410364015e-13,1e-11,TRUE
+"case_discounted DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"case_discounted DP vs all paths 1",0,1e-11,TRUE
+"case_discounted integration absolute error",9.8780212024251e-11,1e-08,TRUE
+"case_discounted forward vs reverse integral 20 0",4.30558366737444e-14,1e-08,TRUE
+"case_discounted forward vs reverse integral 20 6",1.91735516352765e-13,1e-08,TRUE
+"case_discounted forward vs reverse integral 20 20",1.19837473278039e-12,1e-08,TRUE
+"case_discounted forward vs reverse integral 40 0",9.83729157161273e-15,1e-08,TRUE
+"case_discounted forward vs reverse integral 40 12",1.91624494050302e-13,1e-08,TRUE
+"case_discounted forward vs reverse integral 40 40",1.88116189292487e-12,1e-08,TRUE
+"case_discounted forward vs reverse integral 60 0",1.03684557684405e-14,1e-08,TRUE
+"case_discounted forward vs reverse integral 60 18",1.92179605562615e-13,1e-08,TRUE
+"case_discounted forward vs reverse integral 60 60",2.73270295281236e-12,1e-08,TRUE
+"case_published DP vs all paths 0",0,1e-11,TRUE
+"case_published DP vs all paths 0.27",2.41584530158434e-13,1e-11,TRUE
+"case_published DP vs all paths 0.3",4.2632564145606e-13,1e-11,TRUE
+"case_published DP vs all paths 0.45",1.06581410364015e-13,1e-11,TRUE
+"case_published DP vs all paths 0.47",2.77111666946439e-13,1e-11,TRUE
+"case_published DP vs all paths 1",0,1e-11,TRUE
+"case_published integration absolute error",9.47306016626979e-11,1e-08,TRUE
+"case_published forward vs reverse integral 20 0",2.92734586571086e-16,1e-08,TRUE
+"case_published forward vs reverse integral 20 6",4.44089209850063e-16,1e-08,TRUE
+"case_published forward vs reverse integral 20 20",1.38866695920115e-12,1e-08,TRUE
+"case_published forward vs reverse integral 40 0",1.03270256929244e-17,1e-08,TRUE
+"case_published forward vs reverse integral 40 12",3.33066907387547e-16,1e-08,TRUE
+"case_published forward vs reverse integral 40 40",1.68876024275733e-12,1e-08,TRUE
+"case_published forward vs reverse integral 60 0",6.7169712717266e-19,1e-08,TRUE
+"case_published forward vs reverse integral 60 18",8.88178419700125e-16,1e-08,TRUE
+"case_published forward vs reverse integral 60 60",2.92610380370206e-12,1e-08,TRUE
+"primary_hb vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"primary_fixed vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"sensitivity_01 vectorized grid vs DP",4.44089209850063e-16,1e-11,TRUE
+"sensitivity_02 vectorized grid vs DP",5.55111512312578e-16,1e-11,TRUE
+"sensitivity_03 vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"sensitivity_04 vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"sensitivity_05 vectorized grid vs DP",5.55111512312578e-16,1e-11,TRUE
+"sensitivity_06 vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"sensitivity_07 vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"sensitivity_08 vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"sensitivity_09 vectorized grid vs DP",5.55111512312578e-16,1e-11,TRUE
+"sensitivity_10 vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"sensitivity_11 vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"sensitivity_12 vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"case_hb_optimized vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"case_fixed vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"case_cap10 vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE
+"case_cap50 vectorized grid vs DP",8.88178419700125e-16,1e-11,TRUE
+"case_discounted vectorized grid vs DP",7.7715611723761e-16,1e-11,TRUE

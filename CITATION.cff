@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the associated draft manuscript; update publication details when available."
+type: software
+title: "HBOP2-FE reproducible simulation and illustrative case study"
+version: 0.1.0
+repository-code: "https://github.com/yuexi706/HBOP2_FE"
+date-released: '2026-11-07'
+authors:
+  - family-names: Dai
+    given-names: Yuexi
+  - family-names: He
+    given-names: Philip
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "HBOP2-FE: Hybrid Bayesian Optimal Phase 2 Design With Information Borrowing From External Data"
+  authors:
+    - family-names: Dai
+      given-names: Yuexi
+    - family-names: He
+      given-names: Philip
+  year: 2026
+  notes: "Supplied manuscript version 29. No publication DOI asserted."

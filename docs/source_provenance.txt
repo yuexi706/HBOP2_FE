@@ -1,0 +1,9 @@
+Scientific source supplied by the user
+Filename: HBOP2FE_Design__Yuexi__v1 (29).pdf
+Pages: 33
+SHA-256: f9d3c4777b6c5ea4be9186d9e0c106456eee5a8767a76397ea333be1d7a707e9
+Manuscript title: HBOP2-FE: Hybrid Bayesian Optimal Phase 2 Design With Information Borrowing From External Data
+Authors shown: Yuexi Dai and Philip He
+Date printed in manuscript: July 4, 2026
+Source PDF is not redistributed in this analysis repository.
+No original clinical patient data were supplied or used.
