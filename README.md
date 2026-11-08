@@ -29,7 +29,7 @@ renv::load()
 source("scripts/run_analysis.R")
 ```
 
-When running an activated renv project through `Rscript --vanilla`, explicitly load it first: `Rscript --vanilla -e 'renv::load(); source("scripts/run_analysis.R")'`. The workflow follows the [official setup-renv action](https://github.com/r-lib/actions/tree/v2/setup-renv) and explicitly loads that library before execution. The included workflow is prepared for GitHub; remote execution has not been tested in this delivery.
+When running an activated renv project through `Rscript --vanilla`, explicitly load it first: `Rscript --vanilla -e 'renv::load(); source("scripts/run_analysis.R")'`. The workflow follows the [official setup-renv action](https://github.com/r-lib/actions/tree/v2/setup-renv) and explicitly loads that library before execution. It uses Ubuntu 24.04 and installs the system libraries needed for font shaping and graphics before restoring the locked R packages. Check the workflow badge above for the current cloud validation status.
 
 The core statistical engine uses base R (`stats`); rendering uses ggplot2, patchwork, ragg and svglite. A Cairo-enabled R build is required for vector PDF export. A first dependency installation may need system font/text libraries on Linux. No downloaded clinical data, Python, LaTeX installation, or network connection is needed for the analysis after R dependencies are installed. Booktabs LaTeX table files include captions and notes; add `\usepackage{booktabs,graphicx}` in the manuscript.
 

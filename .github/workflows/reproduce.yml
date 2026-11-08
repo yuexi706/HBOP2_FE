@@ -7,7 +7,7 @@ permissions:
   contents: read
 jobs:
   reproduce:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 30
     env:
       RENV_CONFIG_REPOS_OVERRIDE: https://cloud.r-project.org
@@ -17,6 +17,10 @@ jobs:
         with:
           r-version: '4.4.1'
           use-public-rspm: true
+      - name: Install graphics and font system libraries
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libfontconfig1-dev libfreetype6-dev libfribidi-dev libharfbuzz-dev libjpeg-dev libpng-dev libtiff-dev libcairo2-dev fonts-dejavu-core
       - uses: r-lib/actions/setup-renv@v2
       - name: Statistical unit tests
         run: Rscript --vanilla -e 'renv::load(); source("tests/run_tests.R")'
